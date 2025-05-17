@@ -17,3 +17,19 @@
 ## Tips
 
 >【荒漠迷城公式化打法：中路夹A】 https://www.bilibili.com/video/BV1zWExzqEBY/
+
+## Fast Smokes
+- 1号位 后排最靠A的位置
+https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
+
+- 2号位 后排最靠B的位置
+https://www.bilibili.com/video/BV11YVUzwEFt?t=78.1
+
+- 3号位 中间一排最靠B的位置 
+https://www.bilibili.com/video/BV11YVUzwEFt?t=106.1
+
+- 4号位 中间一排正对大写A下面箭头的位置
+https://www.bilibili.com/video/BV11YVUzwEFt?t=134.0
+
+- 5号位 中间一排正对双拱形窗户的位置
+https://www.bilibili.com/video/BV11YVUzwEFt?t=178.2
