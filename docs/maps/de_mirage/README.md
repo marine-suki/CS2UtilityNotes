@@ -1,5 +1,7 @@
 # `de_mirage` 🌪️
 
+🌴🐫🌪️🎯🎯🎯🎯🎯🔫🕳🌴🐫🌪️
+
 * [📁 `de_mirage` 🌪️](maps)
     * 📁 T side
         * [:cloud: Smoke Grenade](maps/de_mirage/de_mirage%20T%20Smoke%20Grenade.md)
@@ -11,3 +13,7 @@
         * [:star2: Flashbang](maps/de_mirage/de_mirage%20CT%20Flashbang.md)
         * [:fire: Incendiary Grenade](maps/de_mirage/de_mirage%20CT%20Incendiary%20Grenade.md)
         * [:boom: HE Grenade](maps/de_mirage/de_mirage%20CT%20HE%20Grenade.md)
+
+## Tips
+
+>【荒漠迷城公式化打法：中路夹A】 https://www.bilibili.com/video/BV1zWExzqEBY/
