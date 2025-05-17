@@ -22,7 +22,7 @@
 
 >【荒漠迷城公式化打法：中路夹A】 https://www.bilibili.com/video/BV1zWExzqEBY/
 
-## Fast Smokes
+## Instant Smokes
 
 >【【Mirage】不是哥们2700了还不会扔快烟？】 https://www.bilibili.com/video/BV11YVUzwEFt/
 
