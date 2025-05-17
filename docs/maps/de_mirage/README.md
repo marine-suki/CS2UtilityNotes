@@ -2,6 +2,10 @@
 
 🌴🐫🌪️🎯🎯🎯🎯🎯🔫🕳🌴🐫🌪️
 
+> 【可能是全网最实用的 荒漠迷城新手入门道具教学 进攻方篇！】 https://www.bilibili.com/video/BV1sWobYuEMZ/?share_source=copy_web
+>
+> 
+
 * [📁 `de_mirage` 🌪️](maps)
     * 📁 T side
         * [:cloud: Smoke Grenade](maps/de_mirage/de_mirage%20T%20Smoke%20Grenade.md)
@@ -19,6 +23,9 @@
 >【荒漠迷城公式化打法：中路夹A】 https://www.bilibili.com/video/BV1zWExzqEBY/
 
 ## Fast Smokes
+
+>【【Mirage】不是哥们2700了还不会扔快烟？】 https://www.bilibili.com/video/BV11YVUzwEFt/
+
 - 1号位 后排最靠A的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
 
