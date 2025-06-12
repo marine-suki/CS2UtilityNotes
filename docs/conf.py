@@ -51,6 +51,14 @@ autodoc2_packages = [
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'sphinx_book_theme'
+html_theme_options = {
+    "logo": {
+        # "text": "CS2 Utility Notes",
+        "image_light": "_static/CS2UtilityNotesLogo.png",
+        "image_dark": "_static/CS2UtilityNotesLogo.png",
+    }
+}
+ 
 html_static_path = ['_static']
 myst_enable_extensions = [
     "amsmath",

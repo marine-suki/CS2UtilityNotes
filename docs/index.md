@@ -3,9 +3,9 @@
 :::{admonition} Note
 :class: note
 
-Work in progress...
+📝 Work in progress...
 
-Available at https://cs2utilitynotes.readthedocs.io/en/latest/index.html
+📚 Available at https://cs2utilitynotes.readthedocs.io/en/latest/index.html
 :::
 
 * **Inferno** – 🍌
