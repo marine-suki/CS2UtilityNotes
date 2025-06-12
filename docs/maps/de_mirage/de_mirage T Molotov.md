@@ -1,4 +1,4 @@
-# de_mirage-T-Molotov
+# de_mirage-T-Molotov🔥
 
 ## 1. 匪口->拱门火 ⭐
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=34.6

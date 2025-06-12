@@ -1,4 +1,4 @@
-# de_train-T-Flashbang
+# de_train-T-Flashbang🌟
 
 ### 1. 闪 匪口->内场
 

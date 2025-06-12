@@ -1,6 +1,6 @@
-# de_mirage-T-Instant-Smokes
+# de_mirage-T-Instant-Smokes☁
 
-## Instant Smokes
+## 1. Instant Smokes
 
 >【【Mirage】不是哥们2700了还不会扔快烟？】 https://www.bilibili.com/video/BV11YVUzwEFt/
 

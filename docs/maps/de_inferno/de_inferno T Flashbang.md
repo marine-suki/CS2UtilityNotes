@@ -1,4 +1,4 @@
-# de_inferno-T-Flashbang
+# de_inferno-T-Flashbang🌟
 
 ## 1. 攻B
 

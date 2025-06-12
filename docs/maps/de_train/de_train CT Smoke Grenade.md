@@ -1,5 +1,5 @@
-# de_train-CT-Smoke-Grenade
-## 1.1. 烟 警家->匪口
+# de_train-CT-Smoke-Grenade☁
+## 1. 烟 警家->匪口
 顶住警家角落
 
 ![alt text](../../assets/de_train/image-2.png)

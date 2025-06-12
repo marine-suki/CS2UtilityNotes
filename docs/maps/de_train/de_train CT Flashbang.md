@@ -1,4 +1,4 @@
-# de_train-CT-Flashbang
+# de_train-CT-Flashbang🌟
 
 ## 1. 闪 连接->五六道
 
