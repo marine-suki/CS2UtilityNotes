@@ -1,21 +1,23 @@
+# de_train-T-Smoke-Grenade
+
 ### 1. 烟 匪家->五六道
 顶住角落
 
-![alt text](../../assets/de_train/T_spawn_to_5_6.png)
+![alt text](../../assets/de_train/smoke_T_spawn_to_5_6.png)
 
 瞄
-![alt text](../../assets/de_train/D53[V]OO}M9SQ9}U{`T]A1A.png)
+![alt text](../../assets/de_train/smoke_T_56_aim.png)
 跳投
 
 #### 1.1. 效果
 
-![alt text](<../../assets/de_train/PVGKD{GW`E8(@QRXYIKMWGM.png>)
+![alt text](../../assets/de_train/smoke_t_56.png)
 
 ### 2. 烟 匪家->底线
 
-![alt text](<../../assets/de_train/{BBV)TNOXIQ$KCWNG6OC2$T.png>)
+![alt text](../../assets/de_train/smoke_T_bt_pos.png)
 
-![alt text](<../../assets/de_train/7L7@)PA11UUZNU[)5)3`]HO.png>)
+![alt text](../../assets/de_train/smoke_T_bt_aim.png)
 
 静步跳投
 

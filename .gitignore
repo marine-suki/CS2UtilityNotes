@@ -3,3 +3,5 @@ _site/*
 *.pdf
 .vscode/*
 cheatsheet.md
+build/*
+help.ipynb

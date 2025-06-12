@@ -1,6 +1,8 @@
+# de_train-T-Flashbang
+
 ### 1. 闪 匪口->内场
 
-![alt text](<../../assets/de_train/C$E{]H]_$`R9)5W~SU]E(R3.png>)
+![alt text](../../assets/de_train/image-22.png)
 
 跳投
 
@@ -24,7 +26,7 @@
 
 #### 3.1. 效果
 
-![alt text](<../../assets/de_train/{W7``6G2L3_(8](Q@U0$N0X.png>)
+![alt text](../../assets/de_train/flash-red-stairs-to-elec.png)
 
 
 ### 4. 闪 匪口->匪口外 第二时间出匪口用 
