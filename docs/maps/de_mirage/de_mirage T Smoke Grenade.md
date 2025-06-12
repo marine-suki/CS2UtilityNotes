@@ -44,10 +44,10 @@ https://www.bilibili.com/video/BV1sWobYuEMZ?t=150.7
 
 配合：A1内->跳台火
 
-## A1外->拱门内侧烟
+## 10. A1外->拱门内侧烟
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=208.8
 ![alt text](<../../assets/de_mirage-T-Smoke-Grenade/image-12.png>)
 
-## B区三烟 (见视频)
+## 11. B区三烟 (见视频)
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=215.5
 
