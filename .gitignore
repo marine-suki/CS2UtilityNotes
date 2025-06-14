@@ -1,0 +1,7 @@
+_site/*
+.jekyll-cache/*
+*.pdf
+.vscode/*
+cheatsheet.md
+build/*
+help.ipynb
