@@ -54,7 +54,7 @@ https://www.bilibili.com/video/BV1EJdUYSEUu?t=297.3
 **COMBO**
 
 - [雨神-二道烟](./de_ancient-T-Smoke-Grenade.md#雨神-二道烟)
-- [雨神-死点火](./de_ancient-T-Molotov.md#雨神-死点火)
+- [雨神-死点火](de_ancient-T-Molotov.md#雨神-死点火)
 - [雨神-b坡单向闪](./de_ancient-T-Flashbang.md#雨神-b坡单向闪)
 :::
 
