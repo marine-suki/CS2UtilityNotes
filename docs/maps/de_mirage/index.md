@@ -11,6 +11,8 @@
 
 ## 2. Instant Smokes
 
+mirage VIP 快烟 VIP快烟
+
 >【【Mirage】不是哥们2700了还不会扔快烟？】 https://www.bilibili.com/video/BV11YVUzwEFt/
 
 
@@ -18,8 +20,8 @@
 - 1号位 后排最靠A的位置
 - https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
 
-![alt text](../../assets/README/image-4.png)
-![alt text](../../assets/README/image-5.png)
+![alt text](../../assets/README/mirage-vip-1.png)
+![alt text](../../assets/README/mirage-vip-1-zoom.png)
 
 ### 2号位
 

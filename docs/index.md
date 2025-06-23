@@ -1,5 +1,7 @@
 # CS2 Utility Notes
 
+## INFO
+
 :::{admonition} Note
 :class: note
 
@@ -7,6 +9,16 @@
 
 📚 Available at https://cs2utilitynotes.readthedocs.io/en/latest/index.html
 :::
+
+::::{dropdown} TODO
+:icon: info
+:open:
+
+- 命名混乱，需要统一
+::::
+
+::::{card}
+
 
 * **Inferno** – 🍌
 * **Dust 2** – 🌵
@@ -37,11 +49,17 @@
 
   * 原为高楼施工场景，起重机Emoji象征其建筑工地主题（现已被Train取代，但老玩家仍可能沿用此符号）4。
 
+::::
+
+## TOC
+
 ```{toctree}
 :glob:
 
+maps/de_ancient/index.md
 maps/de_inferno/index.md
 maps/de_train/index.md
 maps/de_mirage/index.md
+
 
 ```

@@ -28,8 +28,8 @@
 
 - 1号位 后排最靠A的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
-![alt text](../../assets/README/image-4.png)
-![alt text](../../assets/README/image-5.png)
+![alt text](../../assets/README/mirage-vip-1.png)
+![alt text](../../assets/README/mirage-vip-1-zoom.png)
 
 - 2号位 后排最靠B的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=78.1
