@@ -28,15 +28,22 @@
 
 - 1号位 后排最靠A的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
+![alt text](../../assets/README/image-4.png)
+![alt text](../../assets/README/image-5.png)
 
 - 2号位 后排最靠B的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=78.1
+![alt text](../../assets/README/image-3.png)
 
 - 3号位 中间一排最靠B的位置 
 https://www.bilibili.com/video/BV11YVUzwEFt?t=106.1
+![alt text](../../assets/README/image-2.png)
 
 - 4号位 中间一排正对大写A下面箭头的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=134.0
+![alt text](../../assets/README/image-6.png)
+![alt text](../../assets/README/image-1.png)
 
 - 5号位 中间一排正对双拱形窗户的位置
 https://www.bilibili.com/video/BV11YVUzwEFt?t=178.2
+![alt text](../../assets/README/image.png) 
