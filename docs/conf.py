@@ -18,8 +18,6 @@ author = ' '
 master_doc = "index"
 
 # -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
 extensions = [
     "myst_parser",
     # "autodoc2",
@@ -60,6 +58,7 @@ html_theme_options = {
 }
  
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
 myst_enable_extensions = [
     "amsmath",
     "attrs_block",

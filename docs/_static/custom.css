@@ -1,0 +1,20 @@
+/* images */
+.bd-main .bd-content .bd-article  img:not(.only-dark,.dark-light) {
+    background-color: #ffffff00;
+    border-radius: .25rem;
+}
+
+
+/* article header */
+.bd-header-article {
+    background-color: var(--pst-color-background-frosted-glass);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+html[data-theme=dark] {
+    --pst-color-background-frosted-glass: rgba(18, 18, 18, 0.7);
+}
+
+html[data-theme=light] {
+    --pst-color-background-frosted-glass: rgba(255, 255, 255, 0.7);
+}
