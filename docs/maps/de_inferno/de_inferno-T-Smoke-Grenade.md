@@ -7,7 +7,7 @@ https://www.bilibili.com/video/BV1ERG2zLE5y?t=105.7
 ### 2. 中路T字路口烟 ⭐
 https://www.bilibili.com/video/BV1ERG2zLE5y?t=178.5
 ![alt text](<../../assets/de_inferno-T-Smoke-Grenade/image-1.png>)
-- 效果：封警察枪位，配合闪可出中路
+- 效果：封CT枪位，配合闪可出中路
 
 熟练的时候可以跑着直接丢
 
