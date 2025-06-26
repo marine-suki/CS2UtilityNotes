@@ -14,8 +14,20 @@
 :icon: info
 :open:
 
-- 命名混乱，需要统一
+- 统一命名：目前命名混乱
 ::::
+
+::::{dropdown} Enhancement
+:icon: info
+:open:
+
+可参考项目
+- https://www.cs2util.com/zh
+- https://csnades.gg/
+
+::::
+
+
 
 ::::{card}
 
@@ -60,6 +72,6 @@ maps/de_ancient/index.md
 maps/de_inferno/index.md
 maps/de_train/index.md
 maps/de_mirage/index.md
-
+maps/de_nuke/index.md
 
 ```

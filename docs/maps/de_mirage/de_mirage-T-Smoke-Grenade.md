@@ -3,38 +3,58 @@
 ## vip快烟
 
 ### 1号位
-- 1号位 后排最靠A的位置
-- https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
+
+
+1号位 后排最靠A的位置
+
+
+https://www.bilibili.com/video/BV11YVUzwEFt?t=48.6
 
 ![alt text](../../assets/README/mirage-vip-1.png)
 ![alt text](../../assets/README/mirage-vip-1-zoom.png) 
 
 ### 2号位
 
-- 2号位 后排最靠B的位置
-- https://www.bilibili.com/video/BV11YVUzwEFt?t=78.1
+
+
+2号位 后排最靠B的位置
+
+
+https://www.bilibili.com/video/BV11YVUzwEFt?t=78.1
 
 ![alt text](../../assets/README/image-3.png)
 
 ### 3号位
 
-- 3号位 中间一排最靠B的位置 
-- https://www.bilibili.com/video/BV11YVUzwEFt?t=106.1
+
+
+3号位 中间一排最靠B的位置 
+
+
+https://www.bilibili.com/video/BV11YVUzwEFt?t=106.1
 
 ![alt text](../../assets/README/image-2.png)
 
 ### 4号位
 
-- 4号位 中间一排正对大写A下面箭头的位置
-- https://www.bilibili.com/video/BV11YVUzwEFt?t=134.0
+
+
+4号位 中间一排正对大写A下面箭头的位置
+
+
+https://www.bilibili.com/video/BV11YVUzwEFt?t=134.0
 
 ![alt text](../../assets/README/image-6.png)
 ![alt text](../../assets/README/image-1.png)
 
 ### 5号位
 
-- 5号位 中间一排正对双拱形窗户的位置
-- https://www.bilibili.com/video/BV11YVUzwEFt?t=178.2
+
+
+5号位 中间一排正对双拱形窗户的位置
+
+
+https://www.bilibili.com/video/BV11YVUzwEFt?t=178.2
 
 ![alt text](../../assets/README/image.png) 
 
@@ -50,22 +70,30 @@ https://www.bilibili.com/video/BV1sWobYuEMZ?t=30.6
 ## 3. 匪家->中路过点烟
 ![alt text](<../../assets/de_mirage-T-Smoke-Grenade/image-2.png>)
 
-- 慢控中路占领沙袋+防拿信息
+
+
+慢控中路占领沙袋+防拿信息
 
 ## 4. 匪口内->拱门内侧烟 (Top Con)
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=128.6
 ![alt text](<../../assets/de_mirage-T-Smoke-Grenade/image-3.png>)
-- 跳投
+
+
+跳投
 
 ## 5. 拱门下->拱门内侧烟 
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=139.0
 ![alt text](<../../assets/de_mirage-T-Smoke-Grenade/image-4.png>)
-- 跑投
+
+
+跑投
 
 ## 6. 拱门内->Jungle烟
 
 ![alt text](<../../assets/de_mirage-T-Smoke-Grenade/image-5.png>)
-- 走一步弹
+
+
+走一步弹
 
 ## 7. A1斜坡外台上->跳台上下烟
 https://www.bilibili.com/video/BV1sWobYuEMZ?t=150.7
