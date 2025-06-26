@@ -1,0 +1,36 @@
+/* 父元素样式：必须设置相对定位 */
+[data-tooltip-img] {
+    position: relative;
+    display: inline-block;
+}
+
+.custom-tooltip {
+    position: absolute;
+    /* z-index: 999; */
+    padding: 8px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    transform: translateX(-50%) translateY(-10px);
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    width: auto;
+    max-width: 300px;
+    pointer-events: auto;
+}
+
+/* 箭头样式：显示在tooltip底部中央 */
+.custom-tooltip::after {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid white;
+    border-top-color: inherit; /* 继承tooltip的背景色 */
+}

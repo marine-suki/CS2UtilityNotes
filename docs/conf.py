@@ -56,7 +56,7 @@ html_theme_options = {
         "image_dark": "_static/CS2UtilityNotesLogo.png",
     }
 }
- 
+
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
 myst_enable_extensions = [
@@ -106,7 +106,10 @@ def setup(app: Sphinx):
         NumberSections,
         StripUnsupportedLatex,
     )
-
+    # custom
+    app.add_css_file('tooltip.css')
+    app.add_js_file('tooltip.js')
+    # default
     app.add_directive("myst-config", MystConfigDirective)
     app.add_directive("docutils-cli-help", DocutilsCliHelpDirective)
     app.add_directive("doc-directive", DirectiveDoc)
