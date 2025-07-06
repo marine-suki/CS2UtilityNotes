@@ -41,10 +41,10 @@
     - 如果丢的是拱门内侧烟，进A点可以静步往跳台摸，或者贴墙往jungle摸
   - A1 A2 进A点
     - 在中路队友还没就位时，选好位置架前压，保证自身存活
-    - 可以帮中路队友丢<span data-tooltip-img="../../_images/image-132.png" style="border-bottom: 1px dashed #666; cursor: pointer;">Jungle烟</span>  
+    - 可以帮中路队友丢[jungle烟](./de_mirage-T-Smoke-Grenade.md#a1外-jungle烟-jame)
 
 
-
+<!-- <span data-tooltip-img="../../_images/image-132.png" style="border-bottom: 1px dashed #666; cursor: pointer;">Jungle烟</span>   -->
 
 
 ## 2. Instant Smokes

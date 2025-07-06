@@ -119,7 +119,7 @@ https://www.bilibili.com/video/BV1sWobYuEMZ?t=208.8
 ## A1外->Jungle烟 Jame 
 https://www.bilibili.com/video/BV1HcG9zvENn?t=3.5
 ![alt text](../../assets/de_mirage-T-Smoke-Grenade/image-13.png)
-可以配合夹A的时候用
+跳投，可以配合夹A的时候用
 
 
 
